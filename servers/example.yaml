@@ -1,0 +1,5 @@
+remote: 'user@remote.example.com'
+destination: '/path/on/local/system'
+dirs:
+  - source: '/path/on/remote/system/'
+    destination: 'FolderName'
